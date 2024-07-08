@@ -1,0 +1,18 @@
+.player-symbol{
+    margin-left: 1rem;
+    font-size: 1rem;
+    color: white;
+  }
+
+  .player-name{
+    display: inline-block;
+    width: 10rem;
+    font-size: 1rem;
+    color: white;
+    text-transform: uppercase;
+    margin: 0;
+    padding: .5rem;
+    border-radius: 4px;
+    text-overflow: ellipsis;
+    text-align: center;
+  }
